@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="250"
+   height="100"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="metamusic-logo.svg"
+   inkscape:export-filename="/home/adorsk/projects/metamusic/boston-metamusic.github.io/metamusic-logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="305.47305"
+     inkscape:cy="-13.040247"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1615"
+     inkscape:window-height="1026"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="1,0"
+       position="-313.78938,380.58369"
+       id="guide3431" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(42.794474,-0.55467098)">
+    <g
+       id="g3433"
+       transform="translate(-119.198,-149.50258)">
+      <rect
+         y="150.05725"
+         x="76.403526"
+         height="100"
+         width="250"
+         id="rect3412"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <g
+         transform="matrix(1.2026144,0,0,1.1653638,-48.824158,-46.664309)"
+         id="g3423">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot2985"
+           style="font-size:12px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Clarendon;-inkscape-font-specification:Sans Italic"
+           transform="translate(845.71429,297.14286)"><flowRegion
+             id="flowRegion2987"><rect
+               id="rect2989"
+               width="1391.4286"
+               height="642.85712"
+               x="-737.14288"
+               y="-136.20924" /></flowRegion><flowPara
+             id="flowPara2991"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">Boston</flowPara><flowPara
+             id="flowPara2993"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">MetaMusic</flowPara></flowRoot>        <path
+           style="fill:#050505"
+           d="m 259.5678,206.34676 c -2.3958,-0.28271 -4.15014,-1.72076 -4.7069,-3.85831 -0.20388,-0.78277 -0.20604,-2.39803 -0.005,-3.15634 0.51306,-1.92763 2.02414,-3.46818 4.1161,-4.19643 0.79728,-0.27754 0.99335,-0.30133 2.48824,-0.302 1.60541,-7.6e-4 1.63489,0.004 2.75869,0.40788 0.62475,0.22473 1.23329,0.41841 1.35229,0.43041 0.21505,0.0217 0.21654,-0.0513 0.24389,-11.95463 l 0.0276,-11.47795 1.00023,0 29.14516,0 c 0.0805,0 0.10554,10.07585 0.0838,20.56515 l -0.031,14.95643 -0.24003,0.84648 c -0.31798,1.12138 -0.71066,1.81714 -1.44858,2.5666 -2.16775,2.20167 -6.24137,2.93342 -9.03986,1.62385 -1.67839,-0.78541 -2.74202,-2.67895 -2.73574,-4.87034 0.005,-1.75741 0.46528,-2.85528 1.72647,-4.11831 1.34869,-1.35065 2.87166,-1.94454 4.9852,-1.94404 1.13128,3.3e-4 2.49159,0.27083 3.51803,0.6997 0.21786,0.091 0.48752,0.16551 0.59925,0.16551 0.19709,0 0.20316,-0.26325 0.20316,-8.817 0,-8.46088 -0.008,-15.94452 -0.19731,-15.94452 l -25.09496,0 c -0.0503,0.0793 -0.0928,4.69683 -0.0945,10.85519 -0.003,10.67499 -0.0129,11.24474 -0.21415,12.22004 -0.37619,1.82332 -1.14343,2.98589 -2.61702,3.96554 -1.61379,1.07284 -3.80321,1.57551 -5.82378,1.33709 z"
+           id="path3095"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cscsccsscccscssscsccssccccscc" />
+      </g>
+    </g>
+  </g>
+</svg>
