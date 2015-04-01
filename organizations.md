@@ -6,6 +6,7 @@ Mega-super bonus points if you do it via a GitHub pull request.
 
 1. [Berklee](https://www.berklee.edu/)
 1. [Boston Conservatory](https://www.bostonconservatory.edu/guest-artist-residencies-and-masterclasses)
+1. [Boston Music Tech](http://www.meetup.com/boston-music-technology-group/)
 1. [Boston Public Schools Arts](http://www.bpsarts.org/calendars.html)
 1. [Boston Symphony Orchestra](http://www.bso.org/Performance)
 1. [Boston University Music](http://www.bu.edu/cfa/news-events/events/)

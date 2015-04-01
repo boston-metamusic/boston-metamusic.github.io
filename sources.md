@@ -8,6 +8,9 @@ Want to add your calendar to the list? Email <a href="mailto:boston.metamusic@gm
 1. Boston Conservatory
  - https://www.bostonconservatory.edu/guest-artist-residencies-and-masterclasses
 
+1. Boston Music Tech
+ - http://www.meetup.com/boston-music-technology-group/
+
 1. Boston Public Schools
  - http://www.bpsarts.org/calendars.html
 
