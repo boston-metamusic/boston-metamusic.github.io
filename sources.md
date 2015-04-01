@@ -1,5 +1,7 @@
 # Boston MetaMusic Sources
 
+Want to add your calendar to the list? Email <a href="mailto:boston.metamusic@gmail.com">boston.metamusic@gmail.com</a>.
+
 1. Berklee
  - https://www.berklee.edu/events/clinics-and-master-classes
 
@@ -10,7 +12,7 @@
  - http://www.bpsarts.org/calendars.html
 
 1. Boston Symphony Orchestra
- -http://www.bso.org/Performance
+ - http://www.bso.org/Performance
 
 1. Boston University	
  - http://www.bu.edu/cfa/news-events/events/
